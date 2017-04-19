@@ -5,6 +5,7 @@
 # See documentation in:
 # http://doc.scrapy.org/en/latest/topics/items.html
 
+from __future__ import unicode_literals, print_function
 import scrapy
 
 

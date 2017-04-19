@@ -5,6 +5,7 @@
 # See documentation in:
 # http://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
+from __future__ import unicode_literals, print_function
 from scrapy import signals
 
 
